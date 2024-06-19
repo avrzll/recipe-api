@@ -5,940 +5,452 @@
     {
       "id": 1,
       "name": "Nasi Goreng",
-      "key": [
-        "nasi",
-        "bawang merah",
-        "bawang putih",
-        "kecap",
-        "telur",
-        "ayam"
-      ],
-      "ingredients": [
-        "1 porsi nasi",
-        "2 siung bawang merah",
-        "1 siung bawang putih",
-        "1 ml kecap",
-        "2 butir telur",
-        "2 kg ayam"
-      ],
+      "key": ["nasi", "bawang merah", "bawang putih", "kecap", "telur", "ayam"],
+      "ingredients": ["1 porsi nasi", "2 siung bawang merah", "1 siung bawang putih", "1 ml kecap", "2 butir telur", "2 kg ayam"],
       "steps": "1. Goreng semua bahan hingga matang.\n2. Tumis bawang merah dan bawang putih hingga harum.\n3. Masukkan telur, aduk hingga setengah matang.\n4. Tambahkan nasi dan kecap, aduk rata.\n5. Masukkan ayam yang telah digoreng, aduk hingga semua bahan tercampur sempurna.\n6. Sajikan nasi goreng hangat.",
-      "image": "https://telegra.ph/file/3246a1929f6c0fa94e829.jpg"
+      "image": "https://telegra.ph/file/3246a1929f6c0fa94e829.jpg",
+      "yt": "https://youtu.be/Js9FXCkn798?si=dP1jkb14CBl7mipK"
     },
     {
       "id": 2,
       "name": "Soto Ayam",
-      "key": [
-        "ayam",
-        "santan",
-        "bawang merah",
-        "bawang putih",
-        "kunyit",
-        "jahe"
-      ],
-      "ingredients": [
-        "1 kg ayam",
-        "500 ml santan",
-        "3 siung bawang merah",
-        "2 siung bawang putih",
-        "1 cm kunyit",
-        "1 ruas jahe"
-      ],
+      "key": ["ayam", "santan", "bawang merah", "bawang putih", "kunyit", "jahe"],
+      "ingredients": ["1 kg ayam", "500 ml santan", "3 siung bawang merah", "2 siung bawang putih", "1 cm kunyit", "1 ruas jahe"],
       "steps": "1. Rebus ayam hingga empuk, tiriskan dan suwir-suwir dagingnya.\n2. Tumis bumbu halus hingga harum.\n3. Masukkan santan, aduk hingga mendidih.\n4. Tambahkan ayam yang telah disuwir, masak sebentar.\n5. Sajikan soto ayam hangat dengan pelengkap.",
-      "image": "https://telegra.ph/file/cc98bb8d5056d8989648c.jpg"
+      "image": "https://telegra.ph/file/cc98bb8d5056d8989648c.jpg",
+      "yt": "https://youtu.be/cqSDDmYqRgg?si=jfOnxygCeYC_uHo3"
     },
     {
       "id": 3,
       "name": "Ayam Goreng",
-      "key": [
-        "ayam",
-        "bumbu ayam",
-        "minyak"
-      ],
-      "ingredients": [
-        "1 ekor ayam",
-        "100 gram bumbu ayam",
-        "minyak secukupnya"
-      ],
+      "key": ["ayam", "bumbu ayam", "minyak"],
+      "ingredients": ["1 ekor ayam", "100 gram bumbu ayam", "minyak secukupnya"],
       "steps": "1. Lumuri ayam dengan bumbu ayam hingga merata.\n2. Panaskan minyak dalam wajan.\n3. Goreng ayam hingga kecokelatan dan matang.\n4. Tiriskan dan sajikan.",
-      "image": "https://telegra.ph/file/7212ae552b30c15dfb11c.jpg"
+      "image": "https://telegra.ph/file/7212ae552b30c15dfb11c.jpg",
+      "yt": "https://youtu.be/j9a9EB0pGTo?si=JCe_4T1AoSEwN0vN"
     },
     {
       "id": 4,
       "name": "Ikan Bakar",
-      "key": [
-        "ikan",
-        "bumbu ikan bakar",
-        "jeruk nipis"
-      ],
-      "ingredients": [
-        "1 kg ikan",
-        "500 gram bumbu ikan bakar",
-        "2 buah jeruk nipis"
-      ],
+      "key": ["ikan", "bumbu ikan bakar", "jeruk nipis"],
+      "ingredients": ["1 kg ikan", "500 gram bumbu ikan bakar", "2 buah jeruk nipis"],
       "steps": "1. Lumuri ikan dengan bumbu ikan bakar dan perasan jeruk nipis.\n2. Diamkan selama beberapa jam untuk meresap.\n3. Bakar ikan di atas bara api hingga matang sempurna.\n4. Sajikan ikan bakar hangat dengan nasi dan sambal.",
-      "image": "https://telegra.ph/file/294fd47e134d17812eb8d.jpg"
+      "image": "https://telegra.ph/file/294fd47e134d17812eb8d.jpg",
+      "yt": "https://youtu.be/ytg0nSt6k4k?si=Ihoj8qcv_x1Mi8yo"
     },
     {
       "id": 5,
       "name": "Mie Goreng",
-      "key": [
-        "mie",
-        "bawang merah",
-        "bawang putih",
-        "kecap",
-        "telur",
-        "sosis"
-      ],
-      "ingredients": [
-        "1 bungkus mie",
-        "2 siung bawang merah",
-        "1 siung bawang putih",
-        "1 ml kecap",
-        "2 butir telur",
-        "2 buah sosis"
-      ],
+      "key": ["mie", "bawang merah", "bawang putih", "kecap", "telur", "sosis"],
+      "ingredients": ["1 bungkus mie", "2 siung bawang merah", "1 siung bawang putih", "1 ml kecap", "2 butir telur", "2 buah sosis"],
       "steps": "1. Rebus mie hingga matang, tiriskan dan sisihkan.\n2. Tumis bawang merah dan bawang putih hingga harum.\n3. Masukkan telur, aduk hingga setengah matang.\n4. Tambahkan mie, kecap, dan sosis, aduk rata.\n5. Masak hingga semua bahan tercampur dan matang sempurna.\n6. Sajikan mie goreng panas dengan irisan timun dan kerupuk.",
-      "image": "https://telegra.ph/file/a81d9942df0fff926cf9d.jpg"
+      "image": "https://telegra.ph/file/a81d9942df0fff926cf9d.jpg",
+      "yt": "https://youtu.be/mBd4sqCKP6I?si=XVtyHzAYqxA2aN_r"
     },
     {
       "id": 6,
       "name": "Nasi Kuning",
-      "key": [
-        "beras",
-        "kunyit",
-        "santan",
-        "daun salam",
-        "serai",
-        "bawang merah"
-      ],
-      "ingredients": [
-        "500 gram beras",
-        "2 cm kunyit",
-        "200 ml santan",
-        "2 lembar daun salam",
-        "1 batang serai",
-        "3 siung bawang merah"
-      ],
+      "key": ["beras", "kunyit", "santan", "daun salam", "serai", "bawang merah"],
+      "ingredients": ["500 gram beras", "2 cm kunyit", "200 ml santan", "2 lembar daun salam", "1 batang serai", "3 siung bawang merah"],
       "steps": "1. Cuci beras hingga bersih, tiriskan.\n2. Haluskan kunyit dan campurkan dengan santan.\n3. Rebus beras dengan campuran santan dan kunyit, tambahkan daun salam dan serai.\n4. Masak hingga nasi matang dan santan meresap sempurna.\n5. Sajikan nasi kuning hangat dengan pelengkap.",
-      "image": "https://telegra.ph/file/9a3f72d9bc8fbdeed1110.jpg"
+      "image": "https://telegra.ph/file/9a3f72d9bc8fbdeed1110.jpg",
+      "yt": "https://youtu.be/s4qY20mK4Nw?si=0wXQiOcaXQEKTtuJ"
     },
     {
       "id": 7,
       "name": "Sayur Asem",
-      "key": [
-        "kacang panjang",
-        "kacang tanah",
-        "jagung",
-        "bawang merah",
-        "bawang putih",
-        "asam jawa"
-      ],
-      "ingredients": [
-        "200 gram kacang panjang",
-        "100 gram kacang tanah",
-        "2 buah jagung",
-        "3 siung bawang merah",
-        "2 siung bawang putih",
-        "50 gram asam jawa"
-      ],
+      "key": ["kacang panjang", "kacang tanah", "jagung", "bawang merah", "bawang putih", "asam jawa"],
+      "ingredients": ["200 gram kacang panjang", "100 gram kacang tanah", "2 buah jagung", "3 siung bawang merah", "2 siung bawang putih", "50 gram asam jawa"],
       "steps": "1. Rebus kacang panjang, kacang tanah, dan jagung hingga matang.\n2. Tumis bawang merah dan bawang putih hingga harum.\n3. Masukkan tumisan bawang ke dalam rebusan sayuran, aduk rata.\n4. Tambahkan asam jawa yang telah dilarutkan dalam air, masak hingga mendidih kembali.\n5. Sajikan sayur asem hangat dengan nasi.",
-      "image": "https://telegra.ph/file/ab79e12f56acc18a4de44.jpg"
+      "image": "https://telegra.ph/file/ab79e12f56acc18a4de44.jpg",
+      "yt": "https://youtu.be/kwsTJEpB2Cg?si=2Zzwtxsom3h-Lsgc"
     },
     {
       "id": 8,
       "name": "Sate Ayam",
-      "key": [
-        "ayam",
-        "bumbu sate",
-        "tusuk sate"
-      ],
-      "ingredients": [
-        "500 gram ayam",
-        "300 gram bumbu sate",
-        "50 tusuk sate"
-      ],
+      "key": ["ayam", "bumbu sate", "tusuk sate"],
+      "ingredients": ["500 gram ayam", "300 gram bumbu sate", "50 tusuk sate"],
       "steps": "1. Potong ayam menjadi dadu kecil.\n2. Tusukkan potongan ayam ke tusuk sate.\n3. Olesi ayam dengan bumbu sate.\n4. Panggang sate ayam di atas bara api hingga matang sempurna.\n5. Sajikan sate ayam panas dengan saus kacang dan lontong.",
-      "image": "https://telegra.ph/file/ccc96daac67c0ca8f10ff.jpg"
+      "image": "https://telegra.ph/file/ccc96daac67c0ca8f10ff.jpg",
+      "yt": "https://youtu.be/Vh__EYZzPwg?si=0WN_cl0KDi7Orj3j"
     },
     {
       "id": 9,
       "name": "Ayam Rica-Rica",
-      "key": [
-        "ayam",
-        "bumbu rica-rica"
-      ],
-      "ingredients": [
-        "1 kg ayam",
-        "500 gram bumbu rica-rica"
-      ],
+      "key": ["ayam", "bumbu rica-rica"],
+      "ingredients": ["1 kg ayam", "500 gram bumbu rica-rica"],
       "steps": "1. Potong ayam menjadi beberapa bagian.\n2. Lumuri ayam dengan bumbu rica-rica hingga merata.\n3. Diamkan selama beberapa jam agar bumbu meresap.\n4. Rebus ayam dalam bumbu hingga matang dan bumbu meresap sempurna.\n5. Sajikan ayam rica-rica panas dengan nasi dan sambal.",
-      "image": "https://telegra.ph/file/de00b28b8778932064e30.jpg"
+      "image": "https://telegra.ph/file/de00b28b8778932064e30.jpg",
+      "yt": "https://youtu.be/mSwwXJuBzZQ?si=nL7ak6yWoPKzbSHG"
     },
     {
       "id": 10,
       "name": "Sop Buntut",
-      "key": [
-        "buntut sapi",
-        "wortel",
-        "kentang",
-        "bawang merah",
-        "bawang putih",
-        "daun bawang"
-      ],
-      "ingredients": [
-        "1 kg buntut sapi",
-        "3 wortel",
-        "2 kentang",
-        "3 siung bawang merah",
-        "2 siung bawang putih",
-        "1 batang daun bawang"
-      ],
+      "key": ["buntut sapi", "wortel", "kentang", "bawang merah", "bawang putih", "daun bawang"],
+      "ingredients": ["1 kg buntut sapi", "3 wortel", "2 kentang", "3 siung bawang merah", "2 siung bawang putih", "1 batang daun bawang"],
       "steps": "1. Cuci bersih buntut sapi.\n2. Rebus buntut sapi dalam air hingga empuk.\n3. Tambahkan wortel dan kentang yang telah dipotong-potong.\n4. Tumis bawang merah dan bawang putih hingga harum, lalu masukkan ke dalam rebusan.\n5. Masak hingga semua bahan matang dan bumbu meresap.\n6. Sajikan sop buntut panas dengan taburan daun bawang.",
-      "image": "https://telegra.ph/file/7a4cc33de5183b211f4a0.jpg"
+      "image": "https://telegra.ph/file/7a4cc33de5183b211f4a0.jpg",
+      "yt": ""
     },
     {
       "id": 11,
       "name": "Gulai Kambing",
-      "key": [
-        "daging kambing",
-        "santan",
-        "bumbu gulai"
-      ],
-      "ingredients": [
-        "1 kg daging kambing",
-        "500 ml santan",
-        "200 gram bumbu gulai"
-      ],
+      "key": ["daging kambing", "santan", "bumbu gulai"],
+      "ingredients": ["1 kg daging kambing", "500 ml santan", "200 gram bumbu gulai"],
       "steps": "1. Potong daging kambing menjadi potongan kecil.\n2. Rebus daging dalam air hingga empuk, tiriskan.\n3. Tumis bumbu gulai hingga harum.\n4. Masukkan daging ke dalam tumisan, aduk rata.\n5. Tuangkan santan, masak hingga mendidih.\n6. Sajikan gulai kambing hangat dengan nasi.",
-      "image": "https://telegra.ph/file/bf33da7f531857d886f76.jpg"
+      "image": "https://telegra.ph/file/bf33da7f531857d886f76.jpg",
+      "yt": "https://youtu.be/qp4LPgmH4QE?si=Y9o36RtGWSKoNpd6"
     },
     {
       "id": 12,
       "name": "Rendang Daging",
-      "key": [
-        "daging sapi",
-        "santan",
-        "bumbu rendang"
-      ],
-      "ingredients": [
-        "1 kg daging sapi",
-        "500 ml santan",
-        "300 gram bumbu rendang"
-      ],
+      "key": ["daging sapi", "santan", "bumbu rendang"],
+      "ingredients": ["1 kg daging sapi", "500 ml santan", "300 gram bumbu rendang"],
       "steps": "1. Potong daging sapi menjadi potongan kecil.\n2. Rebus daging dalam santan hingga empuk, tiriskan.\n3. Tumis bumbu rendang hingga harum.\n4. Masukkan daging ke dalam tumisan, aduk rata.\n5. Masak dengan api kecil hingga bumbu meresap dan daging menjadi empuk.\n6. Sajikan rendang daging hangat dengan nasi atau lontong.",
-      "image": "https://telegra.ph/file/13bc45fd32a7fd1e88272.jpg"
+      "image": "https://telegra.ph/file/13bc45fd32a7fd1e88272.jpg",
+      "yt": "https://youtu.be/GNfRXKsvG04?si=VGgCeWHIwpoW71Ue"
     },
     {
       "id": 13,
       "name": "Martabak Telur",
-      "key": [
-        "tepung terigu",
-        "telur",
-        "bawang merah",
-        "bawang putih",
-        "daun bawang"
-      ],
-      "ingredients": [
-        "300 gram tepung terigu",
-        "5 butir telur",
-        "3 siung bawang merah",
-        "2 siung bawang putih",
-        "2 batang daun bawang"
-      ],
+      "key": ["tepung terigu", "telur", "bawang merah", "bawang putih", "daun bawang"],
+      "ingredients": ["300 gram tepung terigu", "5 butir telur", "3 siung bawang merah", "2 siung bawang putih", "2 batang daun bawang"],
       "steps": "1. Campur tepung terigu dengan air hingga membentuk adonan kental.\n2. Tumis bawang merah dan bawang putih hingga harum.\n3. Masukkan telur dan adonan tepung terigu, aduk rata.\n4. Tambahkan daun bawang, aduk hingga semua bahan tercampur rata.\n5. Tuangkan adonan ke dalam wajan, masak hingga kedua sisi matang.\n6. Lipat martabak dan sajikan panas dengan saus atau sambal.",
-      "image": "https://telegra.ph/file/500b7a93ae5616c332d7a.jpg"
+      "image": "https://telegra.ph/file/500b7a93ae5616c332d7a.jpg",
+      "yt": "https://youtu.be/aO5YGvGLHmw?si=FEJGD3Uyg7ULA1Bi"
     },
     {
       "id": 14,
       "name": "Puding",
-      "key": [
-        "agar-agar",
-        "gula",
-        "susu"
-      ],
-      "ingredients": [
-        "500 gram agar-agar",
-        "200 gram gula",
-        "200 ml susu"
-      ],
+      "key": ["agar-agar", "gula", "susu"],
+      "ingredients": ["500 gram agar-agar", "200 gram gula", "200 ml susu"],
       "steps": "1. Campur semua bahan dalam panci.\n2. Rebus campuran hingga agar-agar dan gula larut.\n3. Tuang adonan ke dalam cetakan, dinginkan hingga set.\n4. Potong-potong puding dan sajikan.",
-      "image": "https://telegra.ph/file/8c8569f90c97fe3192552.jpg"
+      "image": "https://telegra.ph/file/8c8569f90c97fe3192552.jpg",
+      "yt": "https://youtu.be/Iu0lRxbexgg?si=X-_p18i14RKAnGqw"
     },
     {
       "id": 15,
       "name": "Bakso",
-      "key": [
-        "daging sapi",
-        "tepung tapioka",
-        "telur",
-        "bawang merah",
-        "bawang putih"
-      ],
-      "ingredients": [
-        "500 gram daging sapi",
-        "100 gram tepung tapioka",
-        "2 butir telur",
-        "3 siung bawang merah",
-        "2 siung bawang putih"
-      ],
+      "key": ["daging sapi", "tepung tapioka", "telur", "bawang merah", "bawang putih"],
+      "ingredients": ["500 gram daging sapi", "100 gram tepung tapioka", "2 butir telur", "3 siung bawang merah", "2 siung bawang putih"],
       "steps": "1. Giling daging sapi hingga halus.\n2. Tambahkan tepung tapioka, telur, bawang merah, dan bawang putih yang telah dihaluskan.\n3. Uleni adonan hingga semua bahan tercampur rata.\n4. Bentuk adonan menjadi bulatan-bulatan kecil.\n5. Rebus bakso dalam air mendidih hingga matang.\n6. Angkat dan sajikan bakso panas dengan kuah dan mie.",
-      "image": "https://telegra.ph/file/8fde7a8d6c8755a4762fd.jpg"
+      "image": "https://telegra.ph/file/8fde7a8d6c8755a4762fd.jpg",
+      "yt": ""
     },
     {
       "id": 16,
       "name": "Sambal Goreng Kentang",
-      "key": [
-        "kentang",
-        "sambal",
-        "santan",
-        "bawang merah",
-        "bawang putih",
-        "daun salam"
-      ],
-      "ingredients": [
-        "500 gram kentang",
-        "100 gram sambal",
-        "200 ml santan",
-        "3 siung bawang merah",
-        "2 siung bawang putih",
-        "2 lembar daun salam"
-      ],
+      "key": ["kentang", "sambal", "santan", "bawang merah", "bawang putih", "daun salam"],
+      "ingredients": ["500 gram kentang", "100 gram sambal", "200 ml santan", "3 siung bawang merah", "2 siung bawang putih", "2 lembar daun salam"],
       "steps": "1. Potong kentang menjadi dadu kecil.\n2. Goreng kentang hingga kecokelatan dan matang, tiriskan.\n3. Tumis bawang merah dan bawang putih hingga harum.\n4. Masukkan sambal dan daun salam, aduk rata.\n5. Tambahkan santan, aduk hingga mendidih.\n6. Masukkan kentang goreng, aduk hingga semua bahan tercampur rata.\n7. Sajikan sambal goreng kentang hangat sebagai lauk pelengkap.",
-      "image": "https://telegra.ph/file/111336c82cf7f91cfceae.jpg"
+      "image": "https://telegra.ph/file/111336c82cf7f91cfceae.jpg",
+      "yt": "https://youtu.be/gqcRtvIFArA?si=c9IUnIPSg0d8RRbE"
     },
     {
       "id": 17,
       "name": "Sayur Lodeh",
-      "key": [
-        "sayuran",
-        "santan",
-        "bawang merah",
-        "bawang putih",
-        "daun salam"
-      ],
-      "ingredients": [
-        "sayuran (kacang panjang, wortel, tahu)",
-        "500 ml santan",
-        "3 siung bawang merah",
-        "2 siung bawang putih",
-        "2 lembar daun salam"
-      ],
+      "key": ["sayuran", "santan", "bawang merah", "bawang putih", "daun salam"],
+      "ingredients": ["sayuran (kacang panjang, wortel, tahu)", "500 ml santan", "3 siung bawang merah", "2 siung bawang putih", "2 lembar daun salam"],
       "steps": "1. Potong sayuran menjadi potongan kecil.\n2. Rebus sayuran dalam air hingga matang, tiriskan.\n3. Tumis bawang merah dan bawang putih hingga harum.\n4. Masukkan sayuran rebus dan daun salam, aduk rata.\n5. Tambahkan santan, masak hingga mendidih.\n6. Sajikan sayur lodeh hangat sebagai lauk pelengkap.",
-      "image": "https://telegra.ph/file/31cef2fa8464a219284c0.jpg"
+      "image": "https://telegra.ph/file/31cef2fa8464a219284c0.jpg",
+      "yt": "https://youtu.be/K__oFZwivZI?si=2NIgvozeYH2BeBvL"
     },
     {
       "id": 18,
       "name": "Gado-Gado",
-      "key": [
-        "sayuran",
-        "tauge",
-        "telur",
-        "tahu",
-        "bumbu kacang"
-      ],
-      "ingredients": [
-        "sayuran (kentang, kacang panjang, tauge)",
-        "200 gram tauge",
-        "2 butir telur",
-        "2 potong tahu",
-        "300 ml bumbu kacang"
-      ],
+      "key": ["sayuran", "tauge", "telur", "tahu", "bumbu kacang"],
+      "ingredients": ["sayuran (kentang, kacang panjang, tauge)", "200 gram tauge", "2 butir telur", "2 potong tahu", "300 ml bumbu kacang"],
       "steps": "1. Rebus sayuran, tauge, telur, dan tahu hingga matang, tiriskan.\n2. Iris tipis sayuran, telur, dan tahu.\n3. Tambahkan bumbu kacang, aduk rata.\n4. Sajikan gado-gado dengan bumbu kacang dan kerupuk.",
-      "image": "https://telegra.ph/file/4fc61d1478a6ae7e7b689.jpg"
+      "image": "https://telegra.ph/file/4fc61d1478a6ae7e7b689.jpg",
+      "yt": "https://youtu.be/AeN_eMD-jJU?si=k5ytSB3lZTFZaj1k"
     },
     {
       "id": 19,
       "name": "Soto Betawi",
-      "key": [
-        "daging sapi",
-        "santan",
-        "bawang merah",
-        "bawang putih",
-        "daun jeruk",
-        "jahe"
-      ],
-      "ingredients": [
-        "1 kg daging sapi",
-        "500 ml santan",
-        "5 siung bawang merah",
-        "3 siung bawang putih",
-        "3 lembar daun jeruk",
-        "2 ruas jahe"
-      ],
+      "key": ["daging sapi", "santan", "bawang merah", "bawang putih", "daun jeruk", "jahe"],
+      "ingredients": ["1 kg daging sapi", "500 ml santan", "5 siung bawang merah", "3 siung bawang putih", "3 lembar daun jeruk", "2 ruas jahe"],
       "steps": "1. Rebus daging sapi dalam air hingga empuk, tiriskan.\n2. Tumis bawang merah dan bawang putih hingga harum.\n3. Masukkan daging rebus, daun jeruk, dan jahe, aduk rata.\n4. Tambahkan santan, masak hingga mendidih.\n5. Sajikan soto betawi hangat dengan pelengkap.",
-      "image": "https://telegra.ph/file/a719a6657948f0223c0a5.jpg"
+      "image": "https://telegra.ph/file/a719a6657948f0223c0a5.jpg",
+      "yt": "https://youtu.be/YkZpAQ0AR0c?si=HpcYnPlAZ2P42bWi"
     },
     {
       "id": 20,
       "name": "Es Campur",
-      "key": [
-        "buah-buahan",
-        "sirup",
-        "es batu"
-      ],
-      "ingredients": [
-        "buah-buahan (nanas, kelapa muda, alpukat)",
-        "sirup",
-        "es batu"
-      ],
+      "key": ["buah-buahan", "sirup", "es batu"],
+      "ingredients": ["buah-buahan (nanas, kelapa muda, alpukat)", "sirup", "es batu"],
       "steps": "1. Potong-potong semua buah-buahan.\n2. Campur buah-buahan dengan sirup.\n3. Masukkan es batu ke dalam gelas.\n4. Tuangkan campuran buah-buahan dan sirup ke dalam gelas.\n5. Es campur siap disajikan sebagai minuman penyegar.",
-      "image": "https://telegra.ph/file/cd8ab40bcf00b3ae83ac5.jpg"
+      "image": "https://telegra.ph/file/cd8ab40bcf00b3ae83ac5.jpg",
+      "yt": "https://youtu.be/XLLYRxd2Oho?si=WP007xw339jzCLB0"
     },
     {
       "id": 21,
       "name": "Sate Padang",
-      "key": [
-        "daging sapi",
-        "bumbu sate",
-        "tusuk sate"
-      ],
-      "ingredients": [
-        "500 gram daging sapi",
-        "200 gram bumbu sate Padang",
-        "50 tusuk sate"
-      ],
+      "key": ["daging sapi", "bumbu sate", "tusuk sate"],
+      "ingredients": ["500 gram daging sapi", "200 gram bumbu sate Padang", "50 tusuk sate"],
       "steps": "1. Potong daging sapi menjadi potongan kecil.\n2. Tusukkan potongan daging ke tusuk sate.\n3. Olesi daging dengan bumbu sate Padang.\n4. Panggang sate di atas bara api hingga matang dan berwarna kecokelatan.\n5. Sajikan sate Padang dengan kuah kacang, nasi putih, dan lontong.",
-      "image": "https://telegra.ph/file/b2f70a93fdbddfedee377.jpg"
+      "image": "https://telegra.ph/file/b2f70a93fdbddfedee377.jpg",
+      "yt": "https://youtu.be/LWRIBEBRwuM?si=NMhhAPiLxsP3t5Xf"
     },
     {
       "id": 22,
       "name": "Pecel Lele",
-      "key": [
-        "lele",
-        "bumbu pecel",
-        "sambal",
-        "sayuran"
-      ],
-      "ingredients": [
-        "3 ekor lele",
-        "200 gram bumbu pecel",
-        "100 gram sambal",
-        "sayuran (kangkung, kubis, tauge)"
-      ],
+      "key": ["lele", "bumbu pecel", "sambal", "sayuran"],
+      "ingredients": ["3 ekor lele", "200 gram bumbu pecel", "100 gram sambal", "sayuran (kangkung, kubis, tauge)"],
       "steps": "1. Bersihkan lele dan lumuri dengan bumbu pecel.\n2. Goreng lele hingga matang dan berwarna kecokelatan.\n3. Sajikan lele goreng dengan sambal, sayuran rebus, dan nasi.",
-      "image": "https://telegra.ph/file/4bea482081fdd4f9b0185.jpg"
+      "image": "https://telegra.ph/file/4bea482081fdd4f9b0185.jpg",
+      "yt": "https://youtu.be/lsJ8nm1ZZrU?si=l7Qa08cI-Z5Rju4h"
     },
     {
       "id": 23,
       "name": "Nasi Uduk",
-      "key": [
-        "beras",
-        "santan",
-        "daun salam",
-        "serai",
-        "bawang merah"
-      ],
-      "ingredients": [
-        "500 gram beras",
-        "200 ml santan",
-        "2 lembar daun salam",
-        "1 batang serai",
-        "5 siung bawang merah"
-      ],
+      "key": ["beras", "santan", "daun salam", "serai", "bawang merah"],
+      "ingredients": ["500 gram beras", "200 ml santan", "2 lembar daun salam", "1 batang serai", "5 siung bawang merah"],
       "steps": "1. Cuci beras hingga bersih, tiriskan.\n2. Campur beras dengan santan, daun salam, serai, dan bawang merah yang telah dihaluskan.\n3. Masak beras seperti biasa hingga matang.\n4. Sajikan nasi uduk hangat dengan pelengkap.",
-      "image": "https://telegra.ph/file/6e9606e3d4afa46210e95.jpg"
+      "image": "https://telegra.ph/file/6e9606e3d4afa46210e95.jpg",
+      "yt": "https://youtu.be/ARENSevdUk8?si=GtGVfiCCE5K8f5Y7"
     },
     {
       "id": 24,
       "name": "Capcay",
-      "key": [
-        "sayuran",
-        "ayam",
-        "udang",
-        "saus tiram"
-      ],
-      "ingredients": [
-        "sayuran (kubis, wortel, sawi)",
-        "200 gram daging ayam",
-        "200 gram udang",
-        "50 ml saus tiram"
-      ],
+      "key": ["sayuran", "ayam", "udang", "saus tiram"],
+      "ingredients": ["sayuran (kubis, wortel, sawi)", "200 gram daging ayam", "200 gram udang", "50 ml saus tiram"],
       "steps": "1. Potong-potong sayuran, ayam, dan udang.\n2. Tumis ayam dan udang hingga matang.\n3. Masukkan sayuran, aduk rata.\n4. Tuangkan saus tiram, masak hingga semua bahan matang dan tercampur rata.\n5. Sajikan capcay hangat sebagai menu utama.",
-      "image": "https://telegra.ph/file/998cf0f2d6b7e98fa2812.jpg"
+      "image": "https://telegra.ph/file/998cf0f2d6b7e98fa2812.jpg",
+      "yt": "https://youtu.be/YxMqHgQxsW0?si=kc7I6zPKA42wAZLX"
     },
     {
       "id": 25,
       "name": "Sop Iga",
-      "key": [
-        "iga sapi",
-        "wortel",
-        "kentang",
-        "bawang merah",
-        "bawang putih",
-        "daun bawang"
-      ],
-      "ingredients": [
-        "1 kg iga sapi",
-        "2 wortel",
-        "2 kentang",
-        "3 siung bawang merah",
-        "2 siung bawang putih",
-        "1 batang daun bawang"
-      ],
+      "key": ["iga sapi", "wortel", "kentang", "bawang merah", "bawang putih", "daun bawang"],
+      "ingredients": ["1 kg iga sapi", "2 wortel", "2 kentang", "3 siung bawang merah", "2 siung bawang putih", "1 batang daun bawang"],
       "steps": "1. Rebus iga sapi dalam air hingga empuk, tiriskan.\n2. Potong wortel, kentang, dan daun bawang menjadi potongan kecil.\n3. Tumis bawang merah dan bawang putih hingga harum.\n4. Masukkan bumbu tumis dan sayuran ke dalam rebusan iga, masak hingga semua bahan matang.\n5. Sajikan sop iga hangat dengan taburan daun bawang.",
-      "image": "https://telegra.ph/file/e25c1d88b9492bff7d577.jpg"
+      "image": "https://telegra.ph/file/e25c1d88b9492bff7d577.jpg",
+      "yt": "https://youtu.be/VdfZWVT_NNQ?si=ZPdg7y1dD4r7dwN3"
     },
     {
       "id": 26,
       "name": "Nasi Goreng Jawa",
-      "key": [
-        "nasi",
-        "telur",
-        "bawang merah",
-        "bawang putih",
-        "kecap"
-      ],
-      "ingredients": [
-        "500 gram nasi",
-        "3 butir telur",
-        "5 siung bawang merah",
-        "3 siung bawang putih",
-        "50 ml kecap manis"
-      ],
+      "key": ["nasi", "telur", "bawang merah", "bawang putih", "kecap"],
+      "ingredients": ["500 gram nasi", "3 butir telur", "5 siung bawang merah", "3 siung bawang putih", "50 ml kecap manis"],
       "steps": "1. Panaskan minyak, tumis bawang merah dan bawang putih hingga harum.\n2. Masukkan telur, aduk hingga setengah matang.\n3. Tambahkan nasi, aduk rata.\n4. Tuangkan kecap manis, aduk hingga merata.\n5. Sajikan nasi goreng Jawa panas dengan irisan mentimun dan kerupuk.",
-      "image": "https://telegra.ph/file/067cd5854bf6bab10fb51.jpg"
+      "image": "https://telegra.ph/file/067cd5854bf6bab10fb51.jpg",
+      "yt": "https://youtu.be/V8xOJVq43As?si=Ug2NS3pWVQ7xALjP"
     },
     {
       "id": 27,
       "name": "Sambal Matah",
-      "key": [
-        "bawang merah",
-        "bawang putih",
-        "cabe rawit",
-        "jeruk nipis",
-        "garam"
-      ],
-      "ingredients": [
-        "5 siung bawang merah",
-        "3 siung bawang putih",
-        "10 cabe rawit",
-        "2 buah jeruk nipis",
-        "garam secukupnya"
-      ],
+      "key": ["bawang merah", "bawang putih", "cabe rawit", "jeruk nipis", "garam"],
+      "ingredients": ["5 siung bawang merah", "3 siung bawang putih", "10 cabe rawit", "2 buah jeruk nipis", "garam secukupnya"],
       "steps": "1. Iris tipis bawang merah, bawang putih, dan cabe rawit.\n2. Peras jeruk nipis, campur dengan garam.\n3. Campur semua bahan, aduk rata.\n4. Sajikan sambal matah sebagai pelengkap hidangan.",
-      "image": "https://telegra.ph/file/5425dffa9afadd64aa5e3.jpg"
+      "image": "https://telegra.ph/file/5425dffa9afadd64aa5e3.jpg",
+      "yt": "https://youtu.be/dJGoSD9ATcw?si=apNseHUjFrvOg8ke"
     },
     {
       "id": 28,
       "name": "Pisang Goreng",
-      "key": [
-        "pisang",
-        "tepung terigu",
-        "gula"
-      ],
-      "ingredients": [
-        "5 buah pisang",
-        "200 gram tepung terigu",
-        "50 gram gula pasir"
-      ],
+      "key": ["pisang", "tepung terigu", "gula"],
+      "ingredients": ["5 buah pisang", "200 gram tepung terigu", "50 gram gula pasir"],
       "steps": "1. Kupas pisang, potong-potong sesuai selera.\n2. Campur tepung terigu dan gula pasir.\n3. Celupkan potongan pisang ke dalam adonan tepung terigu.\n4. Goreng pisang hingga kuning kecokelatan.\n5. Tiriskan dan sajikan pisang goreng hangat.",
-      "image": "https://telegra.ph/file/bab7c525a6392169f05dd.jpg"
+      "image": "https://telegra.ph/file/bab7c525a6392169f05dd.jpg",
+      "yt": "https://youtu.be/uZVEU6Hn2A4?si=kiE3Zasi47_CPAuw"
     },
     {
       "id": 29,
       "name": "Rujak",
-      "key": [
-        "buah-buahan",
-        "saus rujak",
-        "kacang tanah",
-        "cabai rawit",
-        "garam"
-      ],
-      "ingredients": [
-        "buah-buahan (nanas, mangga, jambu)",
-        "200 ml saus rujak",
-        "100 gram kacang tanah",
-        "5 cabai rawit",
-        "garam secukupnya"
-      ],
+      "key": ["buah-buahan", "saus rujak", "kacang tanah", "cabai rawit", "garam"],
+      "ingredients": ["buah-buahan (nanas, mangga, jambu)", "200 ml saus rujak", "100 gram kacang tanah", "5 cabai rawit", "garam secukupnya"],
       "steps": "1. Potong-potong buah-buahan sesuai selera.\n2. Campur saus rujak dengan garam.\n3. Tambahkan cabai rawit yang telah dihaluskan, aduk rata.\n4. Tuangkan saus rujak ke dalam buah-buahan.\n5. Taburi dengan kacang tanah.\n6. Sajikan rujak sebagai hidangan penutup.",
-      "image": "https://telegra.ph/file/461367166b60566df0f7d.jpg"
+      "image": "https://telegra.ph/file/461367166b60566df0f7d.jpg",
+      "yt": "https://youtu.be/LthIztQsx34?si=ZJ8PVu8DteDk7QgN"
     },
     {
       "id": 30,
       "name": "Es Teh Manis",
-      "key": [
-        "teh",
-        "gula",
-        "es"
-      ],
-      "ingredients": [
-        "500 ml teh",
-        "100 gram gula",
-        "es batu secukupnya"
-      ],
+      "key": ["teh", "gula", "es"],
+      "ingredients": ["500 ml teh", "100 gram gula", "es batu secukupnya"],
       "steps": "1. Seduh teh dengan air panas, tambahkan gula, aduk rata hingga larut.\n2. Dinginkan teh dengan es batu.\n3. Sajikan es teh manis dingin sebagai minuman penyegar.",
-      "image": "https://telegra.ph/file/e6846289adbdb7a3b2008.jpg"
+      "image": "https://telegra.ph/file/e6846289adbdb7a3b2008.jpg",
+      "yt": "https://youtu.be/ha6JZmV9EL0?si=WFsFxhuDtJopYUfU"
     },
     {
       "id": 31,
       "name": "Pempek Palembang",
-      "key": [
-        "ikan tenggiri",
-        "tepung sagu",
-        "telur",
-        "bumbu pempek"
-      ],
-      "ingredients": [
-        "500 gram ikan tenggiri",
-        "300 gram tepung sagu",
-        "2 butir telur",
-        "200 gram bumbu pempek",
-        "air secukupnya"
-      ],
+      "key": ["ikan tenggiri", "tepung sagu", "telur", "bumbu pempek"],
+      "ingredients": ["500 gram ikan tenggiri", "300 gram tepung sagu", "2 butir telur", "200 gram bumbu pempek", "air secukupnya"],
       "steps": "1. Haluskan ikan tenggiri, campur dengan tepung sagu dan telur.\n2. Bentuk adonan menjadi bulatan atau lonjong.\n3. Rebus pempek dalam air mendidih hingga mengapung.\n4. Tiriskan, sajikan dengan cuko dan mie kuning.",
-      "image": "https://telegra.ph/file/dea2b8bdd08b1cdb9fa6c.jpg"
+      "image": "https://telegra.ph/file/dea2b8bdd08b1cdb9fa6c.jpg",
+      "yt": "https://youtu.be/VeepZhxG4Hk?si=W7xTk0COJ7dGsZyk"
     },
     {
       "id": 32,
       "name": "Soto Lamongan",
-      "key": [
-        "daging ayam",
-        "bawang merah",
-        "bawang putih",
-        "kunyit",
-        "jahe",
-        "santan"
-      ],
-      "ingredients": [
-        "1 ekor ayam",
-        "5 siung bawang merah",
-        "3 siung bawang putih",
-        "1 ruas kunyit",
-        "1 ruas jahe",
-        "500 ml santan"
-      ],
+      "key": ["daging ayam", "bawang merah", "bawang putih", "kunyit", "jahe", "santan"],
+      "ingredients": ["1 ekor ayam", "5 siung bawang merah", "3 siung bawang putih", "1 ruas kunyit", "1 ruas jahe", "500 ml santan"],
       "steps": "1. Rebus ayam dalam air hingga empuk, suwir-suwir dagingnya.\n2. Tumis bumbu halus hingga harum.\n3. Masukkan tumisan bumbu ke dalam rebusan ayam, tambahkan santan, aduk rata.\n4. Sajikan soto Lamongan hangat dengan pelengkap.",
-      "image": "https://telegra.ph/file/e5159a9a51988c55c1d6d.jpg"
+      "image": "https://telegra.ph/file/e5159a9a51988c55c1d6d.jpg",
+      "yt": "https://youtu.be/OpD00wxjLLw?si=-xLEE4NKGk7fjqWx"
     },
     {
       "id": 33,
       "name": "Sayur Asem Betawi",
-      "key": [
-        "kacang panjang",
-        "jagung",
-        "buncis",
-        "tomat",
-        "asam jawa"
-      ],
-      "ingredients": [
-        "200 gram kacang panjang",
-        "2 buah jagung",
-        "100 gram buncis",
-        "3 buah tomat",
-        "50 gram asam jawa"
-      ],
+      "key": ["kacang panjang", "jagung", "buncis", "tomat", "asam jawa"],
+      "ingredients": ["200 gram kacang panjang", "2 buah jagung", "100 gram buncis", "3 buah tomat", "50 gram asam jawa"],
       "steps": "1. Rebus semua bahan dalam air hingga matang.\n2. Tambahkan asam jawa yang telah dilarutkan, aduk rata.\n3. Sajikan sayur asem Betawi hangat sebagai menu utama.",
-      "image": "https://telegra.ph/file/7f273ab6822c667c35688.jpg"
+      "image": "https://telegra.ph/file/7f273ab6822c667c35688.jpg",
+      "yt": "https://youtu.be/iy4iAaUjh0A?si=UBwRPrEQM6e5XnAh"
     },
     {
       "id": 34,
       "name": "Gulai Kambing Aceh",
-      "key": [
-        "daging kambing",
-        "santan",
-        "bumbu gulai",
-        "daun salam",
-        "serai"
-      ],
-      "ingredients": [
-        "1 kg daging kambing",
-        "500 ml santan",
-        "200 gram bumbu gulai",
-        "3 lembar daun salam",
-        "2 batang serai"
-      ],
+      "key": ["daging kambing", "santan", "bumbu gulai", "daun salam", "serai"],
+      "ingredients": ["1 kg daging kambing", "500 ml santan", "200 gram bumbu gulai", "3 lembar daun salam", "2 batang serai"],
       "steps": "1. Potong daging kambing menjadi potongan kecil.\n2. Rebus daging dalam air hingga empuk.\n3. Tumis bumbu gulai hingga harum.\n4. Masukkan daging rebus, tambahkan daun salam dan serai, aduk rata.\n5. Tuangkan santan, masak hingga mendidih.\n6. Sajikan gulai kambing Aceh hangat dengan nasi.",
-      "image": "https://telegra.ph/file/4f6561effd4a4f175dac5.jpg"
+      "image": "https://telegra.ph/file/4f6561effd4a4f175dac5.jpg",
+      "yt": "https://youtu.be/EJTH4cHOzrw?si=8psqMfjlbRcYJvCq"
     },
     {
       "id": 35,
       "name": "Lumpia Semarang",
-      "key": [
-        "kulit lumpia",
-        "sayuran",
-        "telur",
-        "udang",
-        "ayam"
-      ],
-      "ingredients": [
-        "kulit lumpia",
-        "sayuran (kol, wortel, rebung)",
-        "2 butir telur",
-        "200 gram udang",
-        "200 gram daging ayam"
-      ],
+      "key": ["kulit lumpia", "sayuran", "telur", "udang", "ayam"],
+      "ingredients": ["kulit lumpia", "sayuran (kol, wortel, rebung)", "2 butir telur", "200 gram udang", "200 gram daging ayam"],
       "steps": "1. Isi kulit lumpia dengan sayuran, telur, udang, dan daging ayam yang telah diiris tipis.\n2. Gulung lumpia, rapatkan ujungnya dengan air.\n3. Goreng lumpia dalam minyak panas hingga kecokelatan.\n4. Tiriskan, sajikan lumpia Semarang dengan saus sambal atau saus kacang.",
-      "image": "https://telegra.ph/file/d38887598c0de961f5cd4.jpg"
+      "image": "https://telegra.ph/file/d38887598c0de961f5cd4.jpg",
+      "yt": "https://youtu.be/_nWbOU4Vo40?si=QnTPqRk6ldYra-ff"
     },
     {
       "id": 36,
       "name": "Mie Goreng",
-      "key": [
-        "mie",
-        "telur",
-        "bawang merah",
-        "bawang putih",
-        "saus"
-      ],
-      "ingredients": [
-        "200 gram mie",
-        "2 butir telur",
-        "3 siung bawang merah",
-        "2 siung bawang putih",
-        "50 ml saus"
-      ],
+      "key": ["mie", "telur", "bawang merah", "bawang putih", "saus"],
+      "ingredients": ["200 gram mie", "2 butir telur", "3 siung bawang merah", "2 siung bawang putih", "50 ml saus"],
       "steps": "1. Rebus mie dalam air mendidih hingga matang, tiriskan.\n2. Tumis bawang merah dan bawang putih hingga harum.\n3. Masukkan telur, aduk hingga setengah matang.\n4. Tambahkan mie dan saus, aduk rata.\n5. Sajikan mie goreng panas sebagai menu utama.",
-      "image": "https://telegra.ph/file/8f9744d01301c50a58aa8.jpg"
+      "image": "https://telegra.ph/file/8f9744d01301c50a58aa8.jpg",
+      "yt": "https://youtu.be/lWZuHzEgYCA?si=15iE0RcCp9VfBKNj"
     },
     {
       "id": 37,
       "name": "Nasi Liwet",
-      "key": [
-        "beras",
-        "santan",
-        "daun salam",
-        "serai",
-        "bawang merah"
-      ],
-      "ingredients": [
-        "500 gram beras",
-        "300 ml santan",
-        "2 lembar daun salam",
-        "1 batang serai",
-        "5 siung bawang merah"
-      ],
+      "key": ["beras", "santan", "daun salam", "serai", "bawang merah"],
+      "ingredients": ["500 gram beras", "300 ml santan", "2 lembar daun salam", "1 batang serai", "5 siung bawang merah"],
       "steps": "1. Cuci beras hingga bersih, tiriskan.\n2. Campur beras dengan santan, daun salam, serai, dan bawang merah yang telah dihaluskan.\n3. Masak beras seperti biasa hingga matang.\n4. Sajikan nasi liwet hangat dengan pelengkap.",
-      "image": "https://telegra.ph/file/9265caa5d017e28198694.jpg"
+      "image": "https://telegra.ph/file/9265caa5d017e28198694.jpg",
+      "yt": "https://youtu.be/lxLxZGUtxSY?si=u50Jzz1_EDHaBWBI"
     },
     {
       "id": 38,
       "name": "Soto Bandung",
-      "key": [
-        "daging sapi",
-        "bawang merah",
-        "bawang putih",
-        "jahe",
-        "santan"
-      ],
-      "ingredients": [
-        "1 kg daging sapi",
-        "5 siung bawang merah",
-        "3 siung bawang putih",
-        "1 ruas jahe",
-        "500 ml santan"
-      ],
+      "key": ["daging sapi", "bawang merah", "bawang putih", "jahe", "santan"],
+      "ingredients": ["1 kg daging sapi", "5 siung bawang merah", "3 siung bawang putih", "1 ruas jahe", "500 ml santan"],
       "steps": "1. Rebus daging sapi dalam air hingga empuk, tiriskan.\n2. Tumis bawang merah, bawang putih, dan jahe hingga harum.\n3. Masukkan tumisan bumbu ke dalam rebusan daging, tambahkan santan, aduk rata.\n4. Sajikan soto Bandung hangat dengan pelengkap.",
-      "image": "https://telegra.ph/file/6dfb2799822b218a1847b.jpg"
+      "image": "https://telegra.ph/file/6dfb2799822b218a1847b.jpg",
+      "yt": "https://youtu.be/XYXyDm7g5bE?si=74f2bA2aIRh27QTi"
     },
     {
       "id": 39,
       "name": "Ayam Goreng",
-      "key": [
-        "ayam",
-        "tepung terigu",
-        "telur",
-        "bumbu"
-      ],
-      "ingredients": [
-        "1 ekor ayam",
-        "200 gram tepung terigu",
-        "2 butir telur",
-        "bumbu ayam goreng secukupnya"
-      ],
+      "key": ["ayam", "tepung terigu", "telur", "bumbu"],
+      "ingredients": ["1 ekor ayam", "200 gram tepung terigu", "2 butir telur", "bumbu ayam goreng secukupnya"],
       "steps": "1. Potong ayam menjadi bagian-bagian sesuai selera.\n2. Celupkan potongan ayam ke dalam telur kocok.\n3. Gulingkan potongan ayam ke dalam tepung terigu yang telah diberi bumbu.\n4. Goreng ayam dalam minyak panas hingga kecokelatan dan matang.\n5. Tiriskan dan sajikan ayam goreng hangat.",
-      "image": "https://telegra.ph/file/5e59467c4b53aa909acb2.jpg"
+      "image": "https://telegra.ph/file/5e59467c4b53aa909acb2.jpg",
+      "yt": "https://youtu.be/j9a9EB0pGTo?si=PcPJL3BK303SeXlI"
     },
     {
       "id": 40,
       "name": "Pepes Ikan",
-      "key": [
-        "ikan",
-        "daun pisang",
-        "bumbu"
-      ],
-      "ingredients": [
-        "500 gram ikan",
-        "daun pisang secukupnya",
-        "bumbu pepes secukupnya"
-      ],
+      "key": ["ikan", "daun pisang", "bumbu"],
+      "ingredients": ["500 gram ikan", "daun pisang secukupnya", "bumbu pepes secukupnya"],
       "steps": "1. Bersihkan ikan, lumuri dengan bumbu pepes.\n2. Bungkus ikan dengan daun pisang.\n3. Panggang pepes ikan dalam kukusan atau panggangan hingga matang.\n4. Sajikan pepes ikan hangat sebagai hidangan utama.",
-      "image": "https://telegra.ph/file/c1b0406aae3c546e9d527.jpg"
+      "image": "https://telegra.ph/file/c1b0406aae3c546e9d527.jpg",
+      "yt": "https://youtu.be/SQ1NRwEFETk?si=SjIUiyphyxSROvVQ"
     },
     {
       "id": 41,
       "name": "Ketoprak",
-      "key": [
-        "tahu",
-        "tauge",
-        "lontong",
-        "bumbu kacang"
-      ],
-      "ingredients": [
-        "2 potong tahu",
-        "100 gram tauge",
-        "2 potong lontong",
-        "200 gram bumbu kacang"
-      ],
+      "key": ["tahu", "tauge", "lontong", "bumbu kacang"],
+      "ingredients": ["2 potong tahu", "100 gram tauge", "2 potong lontong", "200 gram bumbu kacang"],
       "steps": "1. Potong tahu dan lontong menjadi potongan-potongan.\n2. Rebus tahu dan tauge hingga matang, tiriskan.\n3. Tata tahu, tauge, dan lontong di atas piring.\n4. Tuangkan bumbu kacang di atasnya.\n5. Sajikan ketoprak sebagai hidangan.",
-      "image": "https://telegra.ph/file/5e1589afd6e62f3e76bde.jpg"
+      "image": "https://telegra.ph/file/5e1589afd6e62f3e76bde.jpg",
+      "yt": "https://youtu.be/baKKkc-NMDA?si=GSVZrVCla3bJ44nJ"
     },
     {
       "id": 42,
       "name": "Pisang Bakar",
-      "key": [
-        "pisang",
-        "keju",
-        "cokelat"
-      ],
-      "ingredients": [
-        "5 buah pisang",
-        "100 gram keju parut",
-        "50 gram cokelat batangan"
-      ],
+      "key": ["pisang", "keju", "cokelat"],
+      "ingredients": ["5 buah pisang", "100 gram keju parut", "50 gram cokelat batangan"],
       "steps": "1. Kupas pisang dan potong-potong sesuai selera.\n2. Taburi keju parut dan potongan cokelat di atas potongan pisang.\n3. Panggang pisang dalam oven hingga keju meleleh dan cokelat meleleh.\n4. Sajikan pisang bakar hangat sebagai camilan.",
-      "image": "https://telegra.ph/file/7c3f5a5088447d3263e0a.jpg"
+      "image": "https://telegra.ph/file/7c3f5a5088447d3263e0a.jpg",
+      "yt": "https://youtu.be/fJOTGxO2Ao8?si=CcIV-DRyrBOIT73F"
     },
     {
       "id": 43,
       "name": "Kue Cubit",
-      "key": [
-        "tepung terigu",
-        "gula",
-        "telur"
-      ],
-      "ingredients": [
-        "200 gram tepung terigu",
-        "100 gram gula pasir",
-        "2 butir telur"
-      ],
+      "key": ["tepung terigu", "gula", "telur"],
+      "ingredients": ["200 gram tepung terigu", "100 gram gula pasir", "2 butir telur"],
       "steps": "1. Campur semua bahan dalam mangkuk, aduk hingga tercampur rata.\n2. Panaskan cetakan kue cubit, tuang adonan ke dalam cetakan hingga penuh.\n3. Panggang kue cubit dalam api kecil hingga matang.\n4. Angkat dan sajikan kue cubit hangat.",
-      "image": "https://telegra.ph/file/2bc7ca74bb38dab6adbc0.jpg"
+      "image": "https://telegra.ph/file/2bc7ca74bb38dab6adbc0.jpg",
+      "yt": "https://youtu.be/oIZ92bgTBEk?si=GOoi04jTunc3Ugv9"
     },
     {
       "id": 44,
       "name": "Sate Ayam",
-      "key": [
-        "daging ayam",
-        "bumbu sate",
-        "tusuk sate"
-      ],
-      "ingredients": [
-        "500 gram daging ayam",
-        "200 gram bumbu sate",
-        "50 tusuk sate"
-      ],
+      "key": ["daging ayam", "bumbu sate", "tusuk sate"],
+      "ingredients": ["500 gram daging ayam", "200 gram bumbu sate", "50 tusuk sate"],
       "steps": "1. Potong daging ayam menjadi potongan kecil.\n2. Tusukkan potongan daging ke tusuk sate.\n3. Olesi daging dengan bumbu sate.\n4. Panggang sate di atas bara api hingga matang dan berwarna kecokelatan.\n5. Sajikan sate ayam dengan bumbu kacang, nasi putih, dan lontong.",
-      "image": "https://telegra.ph/file/8eca81f5d24c6a9d935bf.jpg"
+      "image": "https://telegra.ph/file/8eca81f5d24c6a9d935bf.jpg",
+      "yt": "https://youtu.be/h0ORbRUmpkI?si=r1GX2O_5TEZmTkPh"
     },
     {
       "id": 45,
       "name": "Bakpia",
-      "key": [
-        "tepung terigu",
-        "kacang hijau",
-        "gula",
-        "mentega"
-      ],
-      "ingredients": [
-        "300 gram tepung terigu",
-        "200 gram kacang hijau",
-        "200 gram gula pasir",
-        "100 gram mentega"
-      ],
+      "key": ["tepung terigu", "kacang hijau", "gula", "mentega"],
+      "ingredients": ["300 gram tepung terigu", "200 gram kacang hijau", "200 gram gula pasir", "100 gram mentega"],
       "steps": "1. Kukus kacang hijau hingga matang, haluskan.\n2. Campur kacang hijau halus dengan gula pasir, aduk rata.\n3. Tambahkan mentega dan tepung terigu, uleni hingga adonan kalis.\n4. Bulatkan adonan, pipihkan dan isi dengan campuran kacang hijau.\n5. Oven bakpia dalam suhu rendah hingga matang.\n6. Sajikan bakpia hangat atau dingin.",
-      "image": "https://telegra.ph/file/a25948faebb16640caae8.jpg"
+      "image": "https://telegra.ph/file/a25948faebb16640caae8.jpg",
+      "yt": "https://youtu.be/zYPMqxHEsu0?si=ktsiiwwj1OjuMAH2"
     },
     {
       "id": 46,
       "name": "Rendang Padang",
-      "key": [
-        "daging sapi",
-        "bumbu rendang",
-        "santan"
-      ],
-      "ingredients": [
-        "1 kg daging sapi",
-        "200 gram bumbu rendang",
-        "500 ml santan"
-      ],
+      "key": ["daging sapi", "bumbu rendang", "santan"],
+      "ingredients": ["1 kg daging sapi", "200 gram bumbu rendang", "500 ml santan"],
       "steps": "1. Potong daging sapi menjadi potongan kecil.\n2. Tumis bumbu rendang hingga harum.\n3. Masukkan potongan daging sapi, aduk rata.\n4. Tambahkan santan, masak dengan api kecil hingga bumbu meresap dan daging empuk.\n5. Sajikan rendang Padang hangat dengan nasi putih.",
-      "image": "https://telegra.ph/file/353479108146eb3febd4e.jpg"
+      "image": "https://telegra.ph/file/353479108146eb3febd4e.jpg",
+      "yt": "https://youtu.be/Gfyj6YAYGeA?si=_9bFD_cfjKK8wkD4"
     },
     {
       "id": 47,
       "name": "Ketupat Sayur",
-      "key": [
-        "ketupat",
-        "sayuran",
-        "santan",
-        "bumbu"
-      ],
-      "ingredients": [
-        "5 buah ketupat",
-        "sayuran (kacang panjang, wortel, tahu)",
-        "500 ml santan",
-        "bumbu ketupat sayur secukupnya"
-      ],
+      "key": ["ketupat", "sayuran", "santan", "bumbu"],
+      "ingredients": ["5 buah ketupat", "sayuran (kacang panjang, wortel, tahu)", "500 ml santan", "bumbu ketupat sayur secukupnya"],
       "steps": "1. Potong-potong sayuran menjadi potongan kecil.\n2. Rebus sayuran dalam air hingga matang, tiriskan.\n3. Masak santan dengan bumbu ketupat sayur hingga mendidih.\n4. Masukkan sayuran rebus, aduk rata.\n5. Sajikan ketupat sayur hangat sebagai hidangan.",
-      "image": "https://telegra.ph/file/c3939c9f45c914d5debc5.jpg"
+      "image": "https://telegra.ph/file/c3939c9f45c914d5debc5.jpg",
+      "yt": "https://youtu.be/_nojIMe8bA4?si=cBcMnwZNIlZfPQmP"
     },
     {
       "id": 48,
       "name": "Pempek Palembang",
-      "key": [
-        "ikan tenggiri",
-        "tepung sagu",
-        "telur",
-        "bumbu pempek"
-      ],
-      "ingredients": [
-        "500 gram ikan tenggiri",
-        "300 gram tepung sagu",
-        "2 butir telur",
-        "200 gram bumbu pempek",
-        "air secukupnya"
-      ],
+      "key": ["ikan tenggiri", "tepung sagu", "telur", "bumbu pempek"],
+      "ingredients": ["500 gram ikan tenggiri", "300 gram tepung sagu", "2 butir telur", "200 gram bumbu pempek", "air secukupnya"],
       "steps": "1. Haluskan ikan tenggiri, campur dengan tepung sagu dan telur.\n2. Bentuk adonan menjadi bulatan atau lonjong.\n3. Rebus pempek dalam air mendidih hingga mengapung.\n4. Tiriskan, sajikan dengan cuko dan mie kuning.",
-      "image": "https://telegra.ph/file/35c7f550aaf933aabdcad.jpg"
+      "image": "https://telegra.ph/file/35c7f550aaf933aabdcad.jpg",
+      "yt": "https://youtu.be/3iT-u0kixYQ?si=nqzUs-U-SfQeCiif"
     },
     {
       "id": 49,
       "name": "Martabak Manis",
-      "key": [
-        "tepung terigu",
-        "telur",
-        "gula",
-        "susu",
-        "fermentasi"
-      ],
-      "ingredients": [
-        "300 gram tepung terigu",
-        "2 butir telur",
-        "100 gram gula pasir",
-        "200 ml susu cair",
-        "1 sdt fermentasi (ragi atau soda kue)"
-      ],
+      "key": ["tepung terigu", "telur", "gula", "susu", "fermentasi"],
+      "ingredients": ["300 gram tepung terigu", "2 butir telur", "100 gram gula pasir", "200 ml susu cair", "1 sdt fermentasi (ragi atau soda kue)"],
       "steps": "1. Campur semua bahan dalam mangkuk, aduk hingga tercampur rata.\n2. Diamkan adonan selama 1 jam agar mengembang.\n3. Panaskan cetakan martabak, tuangkan adonan hingga setengah matang.\n4. Taburi dengan topping sesuai selera, lipat adonan.\n5. Panggang hingga matang.\n6. Sajikan martabak manis hangat dengan taburan keju atau meses.",
-      "image": "https://telegra.ph/file/36e9bf34799f1a3e8c1d4.jpg"
+      "image": "https://telegra.ph/file/36e9bf34799f1a3e8c1d4.jpg",
+      "yt": "https://youtu.be/ZN6-OOJ5dTk?si=Mz899nvWJNNgVrz-"
     },
     {
       "id": 50,
       "name": "Lontong Sayur",
-      "key": [
-        "lontong",
-        "sayuran",
-        "santan",
-        "bumbu"
-      ],
-      "ingredients": [
-        "5 buah lontong",
-        "sayuran (kacang panjang, wortel, tahu)",
-        "500 ml santan",
-        "bumbu lontong sayur secukupnya"
-      ],
+      "key": ["lontong", "sayuran", "santan", "bumbu"],
+      "ingredients": ["5 buah lontong", "sayuran (kacang panjang, wortel, tahu)", "500 ml santan", "bumbu lontong sayur secukupnya"],
       "steps": "1. Potong-potong sayuran menjadi potongan kecil.\n2. Rebus sayuran dalam air hingga matang, tiriskan.\n3. Masak santan dengan bumbu lontong sayur hingga mendidih.\n4. Masukkan sayuran rebus, aduk rata.\n5. Sajikan lontong sayur hangat sebagai hidangan.",
-      "image": "https://telegra.ph/file/52c20a497d0fcb3452fe7.jpg"
+      "image": "https://telegra.ph/file/52c20a497d0fcb3452fe7.jpg",
+      "yt": "https://youtu.be/91T206VNMpk?si=3fXEq1Kl7nLiVNLr"
     }
   ]
 }
