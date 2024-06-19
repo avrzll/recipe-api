@@ -9,24 +9,38 @@ app.get('/recipes', (req, res) => {
 });
 
 app.get('/recipes/search', (req, res) => {
-  const { ingredients } = req.query;
+  const { ingredients, name } = req.query;
   
-  if (!ingredients || typeof ingredients !== 'string' || ingredients.trim() === '') {
-    return res.status(400).json({ error: true, message: "Please provide valid ingredients query parameter." });
+  // Validate input
+  if (!ingredients && !name) {
+    return res.status(400).json({ error: true, message: "Please provide valid ingredients or name query parameter." });
   }
 
-  const searchIngredients = ingredients.split(',');
+  // Case-insensitive search for name
+  let matchingRecipes = recipes.data;
 
-  const matchingRecipes = recipes.data.filter(recipe => {
-    return searchIngredients.every(ingredient => recipe.key.includes(ingredient.trim()));
-  });
+  if (name) {
+    const searchName = name.toLowerCase(); // Convert to lowercase for case-insensitive comparison
+    matchingRecipes = matchingRecipes.filter(recipe =>
+      recipe.name.toLowerCase().includes(searchName)
+    );
+  }
+
+  if (ingredients) {
+    const searchIngredients = ingredients.split(',');
+
+    matchingRecipes = matchingRecipes.filter(recipe =>
+      searchIngredients.every(ingredient => recipe.key.includes(ingredient.trim()))
+    );
+  }
 
   if (matchingRecipes.length === 0) {
-    return res.status(404).json({ error: true, message: "No recipes found with the provided ingredients." });
+    return res.status(404).json({ error: true, message: "No recipes found with the provided criteria." });
   }
 
-  res.json({ error: false, message: "success", data: matchingRecipes });
+  res.json({ error: false, message: "Success", data: matchingRecipes });
 });
+
 
 app.get('/recipes/search-any', (req, res) => {
   const { ingredients } = req.query;
